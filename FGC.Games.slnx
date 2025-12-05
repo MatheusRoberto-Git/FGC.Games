@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FGC.Games.Application/FGC.Games.Application.csproj" />
+  <Project Path="FGC.Games.Domain/FGC.Games.Domain.csproj" />
+  <Project Path="FGC.Games.Infrastructure/FGC.Games.Infrastructure.csproj" />
+  <Project Path="FGC.Games.Presentation/FGC.Games.Presentation.csproj" />
+</Solution>
