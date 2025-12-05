@@ -188,7 +188,7 @@ Console.WriteLine("════════════════════�
 Console.WriteLine("🎮 FGC Games API - Microsserviço de Jogos");
 Console.WriteLine("═══════════════════════════════════════════");
 Console.WriteLine($"📍 Ambiente: {app.Environment.EnvironmentName}");
-Console.WriteLine("📖 Swagger: Habilitado");
+Console.WriteLine("📖 Swagger: Habilitado.");
 Console.WriteLine("═══════════════════════════════════════════");
 
 app.Run();
